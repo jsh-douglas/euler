@@ -1,4 +1,3 @@
-#
 # Project Euler Problem 1 Solution
 # 
 # Author: Josh Douglas
